@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|c:\\users\\migue\\desktop\\amadeus test\\finbit\\backend\\finbit\\finbit.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|solutionrelative:finbit.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|c:\\users\\migue\\desktop\\amadeus test\\finbit\\backend\\finbit\\finbit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|solutionrelative:finbit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85F4DD2-E921-4B73-8BB5-2037941EBF8E}|Finbit.Tests\\Finbit.Tests.csproj|c:\\users\\migue\\desktop\\amadeus test\\finbit\\backend\\finbit\\finbit.tests\\services\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85F4DD2-E921-4B73-8BB5-2037941EBF8E}|Finbit.Tests\\Finbit.Tests.csproj|solutionrelative:finbit.tests\\services\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|c:\\users\\migue\\desktop\\amadeus test\\finbit\\backend\\finbit\\finbit.api\\finbit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|solutionrelative:finbit.api\\finbit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|c:\\users\\migue\\desktop\\amadeus test\\finbit\\backend\\finbit\\finbit.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|solutionrelative:finbit.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|c:\\users\\migue\\desktop\\amadeus test\\finbit\\backend\\finbit\\finbit.api\\repositories\\implementations\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|solutionrelative:finbit.api\\repositories\\implementations\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|c:\\users\\migue\\desktop\\amadeus test\\finbit\\backend\\finbit\\finbit.api\\services\\implementations\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|solutionrelative:finbit.api\\services\\implementations\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|c:\\users\\migue\\desktop\\amadeus test\\finbit\\backend\\finbit\\finbit.api\\services\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|solutionrelative:finbit.api\\services\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|c:\\users\\migue\\desktop\\amadeus test\\finbit\\backend\\finbit\\finbit.api\\repositories\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A496276B-FEF0-4A62-A466-D668A23430AE}|Finbit.Api\\Finbit.Api.csproj|solutionrelative:finbit.api\\repositories\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Finbit.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Finbit.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T10:10:38.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Finbit.Api",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Finbit.Api.csproj",
+              "RelativeDocumentMoniker": "Finbit.Api\\Finbit.Api.csproj",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Finbit.Api.csproj",
+              "RelativeToolTip": "Finbit.Api\\Finbit.Api.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-19T08:49:08.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Tests\\Services\\TransactionServiceTests.cs",
+              "RelativeDocumentMoniker": "Finbit.Tests\\Services\\TransactionServiceTests.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Tests\\Services\\TransactionServiceTests.cs",
+              "RelativeToolTip": "Finbit.Tests\\Services\\TransactionServiceTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:39:26.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Finbit.Api\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Finbit.Api\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:29:41.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Finbit.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Program.cs",
+              "RelativeToolTip": "Finbit.Api\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwGQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:18:15.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Repositories\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Finbit.Api\\Repositories\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Repositories\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "Finbit.Api\\Repositories\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:08:16.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Repositories\\Implementations\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Finbit.Api\\Repositories\\Implementations\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Repositories\\Implementations\\TransactionRepository.cs",
+              "RelativeToolTip": "Finbit.Api\\Repositories\\Implementations\\TransactionRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:03:52.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Services\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "Finbit.Api\\Services\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Services\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "Finbit.Api\\Services\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:59:41.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Services\\Implementations\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Finbit.Api\\Services\\Implementations\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\Amadeus test\\Finbit\\backend\\Finbit\\Finbit.Api\\Services\\Implementations\\TransactionService.cs",
+              "RelativeToolTip": "Finbit.Api\\Services\\Implementations\\TransactionService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:43:46.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
